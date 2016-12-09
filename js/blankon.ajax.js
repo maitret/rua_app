@@ -1,5 +1,17 @@
-var BlankonAjax = function () {
+document.addEventListener("backbutton", onBackKeyDown, false);
+function onBackKeyDown() {
+location = "index.html";
+}
+document.addEventListener("menubutton", onMenuKeyDown, false);
+function onMenuKeyDown() {
+location = "index.html";
+}
+document.addEventListener("searchbutton", onSearchKeyDown, false);
+function onSearchKeyDown() {
+//location = "index.html";
+}
 
+var BlankonAjax = function () {
     // Setting variable
     var default_content='',
         lasturl='';
@@ -748,6 +760,10 @@ var BlankonAjax = function () {
                     });
                 },
                 success: function(msg){
+
+var stateObj = { html: url };
+history.pushState(stateObj, "", "index.html?html="+url);
+
                     // Check dynamic css
                     BlankonAjax.dynamicResources(url);
                     if(parseInt(msg)!=0)

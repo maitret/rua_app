@@ -66,6 +66,18 @@ var BlankonAjax = function () {
                 }else{
                     BlankonAjax.loadPage(hash);
                 }
+
+$('.sidebar-menu a').on('click',function(){
+$('body').toggleClass('page-sidebar-left-show');
+var title_page = $(this).attr("data-title");
+if(title_page != "" || title_page != "undefined"){
+$('.navbar-header').html('<a href="index.html" class="navbar-brand btn btn-danger"><i class="fa fa-arrow-left" aria-hidden="true"></i> '+title_page+'</a>');
+}
+});
+//var stateObj = { html: url };
+//history.pushState(stateObj, "", "index.html?"+url);
+//window.onpopstate = function(event) {  };
+
             }
         },
 
@@ -740,16 +752,6 @@ var BlankonAjax = function () {
 
             // Remove hashtag URL
             url=url.replace('#','');
-
-$('.sidebar-menu a').on('click',function(){
-$('body').toggleClass('page-sidebar-left-show');
-var title_page = $(this).attr("data-title");
-$('.navbar-brand').html('<a href="index.html" class="btn btn-danger"><b><</b></a> '+title_page+'');
-});
-
-var stateObj = { html: url };
-history.pushState(stateObj, "", "index.html?"+url);
-//window.onpopstate = function(event) {  };
 
             $.ajax({
                 type: "POST",

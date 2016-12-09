@@ -68,7 +68,7 @@ var BlankonAjax = function () {
                 }
 
 $('.sidebar-menu a').on('click',function(){
-$('body').toggleClass('page-sidebar-left-show');
+$('body').removeClass('page-sidebar-left-show');
 var title_page = $(this).attr("data-title");
 if(title_page != "" || title_page != "undefined"){
 $('.navbar-header').html('<a href="index.html" class="navbar-brand btn btn-danger"><i class="fa fa-arrow-left" aria-hidden="true"></i> '+title_page+'</a>');

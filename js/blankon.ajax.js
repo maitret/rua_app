@@ -6,9 +6,6 @@ var BlankonAjax = function () {
 
     return {
 
-        // =========================================================================
-        // CONSTRUCTOR APP
-        // =========================================================================
         init: function () {
             BlankonAjax.actionAJAX();
             BlankonAjax.handleCallbackAJAX();

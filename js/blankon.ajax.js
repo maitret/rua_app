@@ -746,7 +746,7 @@ $('body').toggleClass('page-sidebar-left-show');
 });
 
 var stateObj = { html: url };
-history.pushState(stateObj, "", "index.html?html="+url);
+history.pushState(stateObj, "", "index.html?"+url);
 //window.onpopstate = function(event) {  };
 
             $.ajax({
@@ -758,14 +758,8 @@ history.pushState(stateObj, "", "index.html?html="+url);
                 },
                 dataType: "html",
                 beforeSend: function () {
-                    $('#page-content').block({
-                        message: '<h1><i class="fa fa-cog fa-spin fa-3x fa-fw"></i></h1>',
-                        centerY: false,
-                        css: {
-                            top: '265px',
-                            width: '15%'
-                        }
-                    });
+//$('#page-content').html('<h1><i class="fa fa-cog fa-spin fa-3x fa-fw"></i></h1>');
+$('#page-content').block({message: '<h1><i class="fa fa-cog fa-spin fa-3x fa-fw"></i></h1>', centerY: false, css: { top: '100px', width: '15%' } });
                 },
                 success: function(msg){
                     // Check dynamic css

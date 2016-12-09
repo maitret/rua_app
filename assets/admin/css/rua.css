@@ -1,3 +1,9 @@
+@media (max-width: 768px){
+#header .navbar-header {
+z-index: 0;
+}
+}
+
 #page-content {
 background: none !important;
 }

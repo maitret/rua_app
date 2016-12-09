@@ -743,6 +743,8 @@ var BlankonAjax = function () {
 
 $('.sidebar-menu a').on('click',function(){
 $('body').toggleClass('page-sidebar-left-show');
+var title_page = $(this).attr("data-title");
+$('.navbar-brand').html('<a href="index.html" class="btn btn-danger"><b><</b></a> '+title_page+'');
 });
 
 var stateObj = { html: url };

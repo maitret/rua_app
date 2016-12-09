@@ -1,3 +1,17 @@
+.navbar-setting_right {
+border-left: 1px solid #DDD;
+border-left: none;
+}
+.navbar-setting_right a {
+padding-right: 15px; padding-top: 16px; padding-bottom: 12px;
+}
+.navbar-setting_right a i {
+color: #FFFFFF;
+z-index: 2;
+position: relative;
+font-size: 22px;
+}
+
 @media (max-width: 768px){
 #header .navbar-header {
 z-index: -1 !important;
@@ -6,11 +20,9 @@ z-index: -1 !important;
 margin-top: 0px !important;
 }
 }
-
 #page-content {
 background: none !important;
 }
-
 .header-left .navbar-header .navbar-brand {
 padding-top: 3px !important;
 }

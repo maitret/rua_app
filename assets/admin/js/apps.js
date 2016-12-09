@@ -144,7 +144,7 @@ preload: true
 
 // Add effect sound water droplet type 3
 $('.dropdown-toggle').on('click', function(){
-ion.sound.play("water_droplet_3");
+//ion.sound.play("water_droplet_3");
 });
 
 }
@@ -152,16 +152,16 @@ ion.sound.play("water_droplet_3");
 // Input sounds
 if($('.page-sound').length){
 $('input, textarea').on('input', function(){
-ion.sound.play("tap");
+//ion.sound.play("tap");
 });
 $('input[type=file]').on('click', function(){
-ion.sound.play("metal_plate_2");
+//ion.sound.play("metal_plate_2");
 });
 $('input[type=checkbox], input[type=radio]').on('click', function(){
-ion.sound.play("button_tiny");
+//ion.sound.play("button_tiny");
 });
 $('select').on('change', function(){
-ion.sound.play("snap");
+//ion.sound.play("snap");
 });
 }
 },
@@ -181,7 +181,7 @@ $('#back-top').removeClass('show animated pulse');
 // scroll body to 0px on click
 $('#back-top').click(function () {
 // Add sound
-ion.sound.play("cd_tray");
+//ion.sound.play("cd_tray");
 $('body,html').animate({
 scrollTop: 0
 }, 800);
@@ -202,7 +202,7 @@ plusIcon = $(this).find('.plus');
 
 // Add effect sound button click
 if($('.page-sound').length){
-ion.sound.play("button_click_on");
+//ion.sound.play("button_click_on");
 }
 
 if(parentElement.parent('ul').find('ul:visible')){
@@ -314,7 +314,7 @@ $('.navbar-minimize a').on('click',function(){
 
 // Add effect sound button click
 if($('.page-sound').length){
-ion.sound.play("button_click");
+//ion.sound.play("button_click");
 }
 
 // Check class sidebar right show
@@ -354,7 +354,7 @@ $.cookie('page_sidebar_minimize','not_active',  {expires: 1});
 $('.navbar-setting a').on('click',function(){
 // Add effect sound button click
 if($('.page-sound').length){
-ion.sound.play("button_click");
+//ion.sound.play("button_click");
 }
 if($('.page-sidebar-minimize.page-sidebar-right-show').length){
 $('body').toggleClass('page-sidebar-minimize page-sidebar-right-show');
@@ -478,7 +478,7 @@ if (state) {
 // Trigger for fullscreen
 // Add effect sound bell ring
 if($('.page-sound').length){
-ion.sound.play("bell_ring");
+//ion.sound.play("bell_ring");
 }
 $(this).toggleClass('fg-theme');
 $(this).attr('data-original-title','Exit Fullscreen');
@@ -492,7 +492,7 @@ request.call(docElement);
 // Trigger for exit fullscreen
 // Add effect sound bell ring
 if($('.page-sound').length){
-ion.sound.play("bell_ring");
+//ion.sound.play("bell_ring");
 }
 $(this).removeClass('fg-theme');
 $(this).attr('data-original-title','Fullscreen')
@@ -645,7 +645,7 @@ location.reload(true);
 handleBoxModal: function () {
 $('#setting').on('click', function(){
 // Add sound
-ion.sound.play('camera_flashing');
+//ion.sound.play('camera_flashing');
 bootbox.dialog({
 message: 'I am a custom dialog setting',
 title: 'Custom setting',
@@ -678,7 +678,7 @@ alert('Hello World');
 
 $('#lock-screen').on('click', function(){
 // Add sound
-ion.sound.play('camera_flashing');
+//ion.sound.play('camera_flashing');
 bootbox.dialog({
 message: 'Locker with notification display, Receive your notifications directly on your lock screen',
 title: 'Lock Screen',
@@ -701,7 +701,7 @@ window.location = $('#lock-screen').data('url');
 
 $('#logout').on('click', function(){
 // Add sound
-ion.sound.play('camera_flashing');
+//ion.sound.play('camera_flashing');
 bootbox.dialog({
 message: 'Do you want to exit from Blankon?',
 title: 'Logout',

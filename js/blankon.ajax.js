@@ -741,6 +741,14 @@ var BlankonAjax = function () {
             // Remove hashtag URL
             url=url.replace('#','');
 
+$('.sidebar-menu a').on('click',function(){
+if($('body.page-sidebar-right-show').length){
+$('body').removeClass('page-sidebar-right-show');
+$('body').removeClass('page-sidebar-minimize');
+}
+$('body').toggleClass('page-sidebar-left-show');
+});
+
             $.ajax({
                 type: "POST",
                 url: "ajax/"+url+".html",
@@ -763,6 +771,7 @@ var BlankonAjax = function () {
 
 var stateObj = { html: url };
 history.pushState(stateObj, "", "index.html?html="+url);
+//window.onpopstate = function(event) {  };
 
                     // Check dynamic css
                     BlankonAjax.dynamicResources(url);

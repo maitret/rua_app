@@ -370,7 +370,7 @@ var BlankonApp = function(){
             $('.navbar-minimize-mobile.left').on('click',function(){
                 // Add effect sound button click
                 if($('.page-sound').length){
-                    ion.sound.play("button_click");
+//ion.sound.play("button_click");
                 }
                 if($('body.page-sidebar-right-show').length){
                     $('body').removeClass('page-sidebar-right-show');

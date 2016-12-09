@@ -113,7 +113,7 @@ RUA
 <gap:splash gap:platform="ios" src="res/screens/ios/screen-ipad-portrait.png" width="768" height="1024" />
 <gap:splash gap:platform="ios" src="res/screens/ios/screen-ipad-portrait-2x.png" width="1536" height="2048" />
 
-<icon src="img/favicon.png" />
+<icon src="icon.png" />
 
 <platform name="webos">
 </platform>

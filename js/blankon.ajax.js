@@ -742,12 +742,12 @@ var BlankonAjax = function () {
             url=url.replace('#','');
 
 $('.sidebar-menu a').on('click',function(){
-if($('body.page-sidebar-right-show').length){
-$('body').removeClass('page-sidebar-right-show');
-$('body').removeClass('page-sidebar-minimize');
-}
 $('body').toggleClass('page-sidebar-left-show');
 });
+
+var stateObj = { html: url };
+history.pushState(stateObj, "", "index.html?html="+url);
+//window.onpopstate = function(event) {  };
 
             $.ajax({
                 type: "POST",
@@ -768,11 +768,6 @@ $('body').toggleClass('page-sidebar-left-show');
                     });
                 },
                 success: function(msg){
-
-var stateObj = { html: url };
-history.pushState(stateObj, "", "index.html?html="+url);
-//window.onpopstate = function(event) {  };
-
                     // Check dynamic css
                     BlankonAjax.dynamicResources(url);
                     if(parseInt(msg)!=0)

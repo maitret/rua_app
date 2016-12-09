@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29290c35-fd1e-4742-be06-921a27804549" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/admin/js/apps.js" afterPath="$PROJECT_DIR$/assets/admin/js/apps.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/blankon.ajax.js" afterPath="$PROJECT_DIR$/js/blankon.ajax.js" />
     </list>
     <ignored path="HTML_PhoneGap.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="blankon.ajax.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8279933">
-              <caret line="771" column="6" selection-start-line="771" selection-start-column="6" selection-end-line="771" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.25801012">
+              <caret line="749" column="2" selection-start-line="749" selection-start-column="2" selection-end-line="749" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -342,7 +341,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481288521247</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=":)">
+      <created>1481289361409</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1481289361409</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -540,8 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8279933">
-          <caret line="771" column="6" selection-start-line="771" selection-start-column="6" selection-end-line="771" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.25801012">
+          <caret line="749" column="2" selection-start-line="749" selection-start-column="2" selection-end-line="749" selection-end-column="2" />
           <folding />
         </state>
       </provider>

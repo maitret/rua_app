@@ -376,7 +376,8 @@ $('body').removeClass('page-sidebar-minimize');
 }
 $('body').toggleClass('page-sidebar-left-show');
 });
-$('.navbar-minimize-mobile.right').on('click',function(){
+
+$('.navbar-minimize-mobile_1').on('click',function(){
 if($('.page-sound').length){
 //ion.sound.play("button_click");
 }
@@ -386,6 +387,11 @@ $('body').removeClass('page-sidebar-minimize');
 }
 $('body').toggleClass('page-sidebar-right-show');
 });
+
+$('.navbar-minimize-mobile_2').on('click',function(){
+
+});
+
 },
 
 // =========================================================================

@@ -366,9 +366,7 @@ $('body').toggleClass('page-sidebar-minimize page-sidebar-right-show');
 }
 });
 
-// This action available on mobile view
 $('.navbar-minimize-mobile.left').on('click',function(){
-// Add effect sound button click
 if($('.page-sound').length){
 //ion.sound.play("button_click");
 }
@@ -379,7 +377,6 @@ $('body').removeClass('page-sidebar-minimize');
 $('body').toggleClass('page-sidebar-left-show');
 });
 $('.navbar-minimize-mobile.right').on('click',function(){
-// Add effect sound button click
 if($('.page-sound').length){
 //ion.sound.play("button_click");
 }

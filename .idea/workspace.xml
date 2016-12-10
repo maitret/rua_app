@@ -49,8 +49,8 @@
       <file leaf-file-name="blankon.ajax.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3726813">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.45868465">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -390,7 +390,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481350182180</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary=":)">
+      <created>1481350392621</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1481350392621</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -596,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3726813">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.45868465">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

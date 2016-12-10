@@ -12,6 +12,10 @@ function onSearchKeyDown() {
 }
 
 $(document).on("touchstart mouseup",function(){
+$('body').addClass('page-sidebar-left-show');
+});
+
+$(document).on("touchstart mousedown",function(){
 $('body').removeClass('page-sidebar-left-show');
 });
 

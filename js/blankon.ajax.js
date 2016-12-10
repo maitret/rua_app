@@ -71,7 +71,7 @@ $('.sidebar-menu a').on('click',function(){
 $('body').removeClass('page-sidebar-left-show');
 var title_page = $(this).attr("data-title");
 if(title_page != "" || title_page != "undefined"){
-$('.navbar-header').html('<a href="index.html" class="navbar-brand"><i class="fa fa-arrow-left" aria-hidden="true"></i> '+title_page+'</a>');
+$('.navbar-header').html('<a href="index.html" class="navbar-brand">'+title_page+'</a>');
 }
 });
 //var stateObj = { html: url };

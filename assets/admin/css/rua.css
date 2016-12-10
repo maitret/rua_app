@@ -1,3 +1,6 @@
+.header-left .navbar-header .navbar-brand {
+font-size: 17px !important;
+}
 .navbar-setting_right {
 border-left: 1px solid #DDD;
 border-left: none;

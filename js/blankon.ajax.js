@@ -11,7 +11,7 @@ function onSearchKeyDown() {
 //location = "index.html";
 }
 
-$('body').on("touchstart mouseup",function(){
+$(document).on("touchstart mouseup",function(){
 $('body').removeClass('page-sidebar-left-show');
 });
 

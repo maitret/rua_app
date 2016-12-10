@@ -1,3 +1,4 @@
+.header-left .navbar-header { height: 53px; }
 .header-left .navbar-header .navbar-brand {
 font-size: 17px !important;
 text-transform: inherit;
@@ -32,9 +33,7 @@ padding-top: 3px !important;
 }
 
 .sidebar-menu > li > a {
-display: block;
-padding: 10px 15px;
-text-decoration: none;
+padding: 15px 0px;
 }
 
 .sidebar-rua {
@@ -57,6 +56,9 @@ text-decoration: none;
 }
 .sidebar-rua > .sidebar-menu > li:last-child > a > .icon:after {
   bottom: 6px;
+}
+.sidebar-menu > li > a > .icon {
+margin-right: 0px;
 }
 .sidebar-rua > .sidebar-menu > li.sidebar-category {
   background-color: #215081 !important;
@@ -172,6 +174,9 @@ font-weight: bold;
   box-shadow: 0 0 0 2px #00B1E1;
 }
 .sidebar-rua.sidebar-box .sidebar-menu > li > ul > li a:before, .sidebar-rua.sidebar-rounded .sidebar-menu > li > ul > li a:before, .sidebar-rua.sidebar-circle .sidebar-menu > li > ul > li a:before {
-  content: "\2014\00a0";
-  margin-left: 13px;
+content: "\2014\00a0";
+margin-left: 13px;
+}
+.sidebar-menu > li > a > .selected {
+top: 22px;
 }

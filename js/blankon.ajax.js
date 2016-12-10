@@ -11,6 +11,10 @@ function onSearchKeyDown() {
 //location = "index.html";
 }
 
+$('body').on("touchstart mouseup",function(){
+$('body').removeClass('page-sidebar-left-show');
+});
+
 var BlankonAjax = function () {
     // Setting variable
     var default_content='',

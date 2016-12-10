@@ -4,6 +4,7 @@
     <list default="true" id="29290c35-fd1e-4742-be06-921a27804549" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/admin/css/rua.css" afterPath="$PROJECT_DIR$/assets/admin/css/rua.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/blankon.ajax.js" afterPath="$PROJECT_DIR$/js/blankon.ajax.js" />
     </list>
     <ignored path="HTML_PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blankon.ajax.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blankon.ajax.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="68" selection-start-line="73" selection-start-column="68" selection-end-line="73" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.43001688">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rua.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rua.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.059964728">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -105,8 +106,8 @@
         <option value="$PROJECT_DIR$/ajax/acerca.html" />
         <option value="$PROJECT_DIR$/assets/admin/js/apps.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/blankon.ajax.js" />
         <option value="$PROJECT_DIR$/assets/admin/css/rua.css" />
+        <option value="$PROJECT_DIR$/js/blankon.ajax.js" />
       </list>
     </option>
   </component>
@@ -378,7 +379,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481330145935</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=":)">
+      <created>1481330220841</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1481330220841</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -574,18 +581,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
+    <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="68" selection-start-line="73" selection-start-column="68" selection-end-line="73" selection-end-column="68" />
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
+    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.059964728">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.43001688">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding />
         </state>
       </provider>

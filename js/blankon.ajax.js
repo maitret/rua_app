@@ -11,13 +11,18 @@ function onSearchKeyDown() {
 //location = "index.html";
 }
 
-$(window.document).on("swipeleft",function(){
-alert("You swiped left!");
+$(window.document).swiperight(function() {
+console.log('right');
+//$('body').addClass('page-sidebar-left-show');
+$('body').addClass('page-sidebar-left-show');
+}).swipeleft(function() {
+//console.log('left');
+//$('body').addClass('page-sidebar-right-show');
 });
 
-//$('body').on("touchstart mousedown",function(){
-//$('body').removeClass('page-sidebar-left-show');
-//});
+$('#body-content-ajax').on("touchstart mouseup",function(){
+$('body').removeClass('page-sidebar-left-show');
+});
 
 var BlankonAjax = function () {
     // Setting variable

@@ -1,3 +1,10 @@
+.page-sidebar-left-show {
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+
 .header-left .navbar-header { height: 53px; }
 .header-left .navbar-header .navbar-brand {
 font-size: 17px !important;

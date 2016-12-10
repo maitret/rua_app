@@ -11,10 +11,6 @@ function onSearchKeyDown() {
 //location = "index.html";
 }
 
-$('body').on("touchstart mouseup",function(){
-$('body').addClass('page-sidebar-left-show');
-});
-
 $(window.document).on("swipeleft",function(){
 alert("You swiped left!");
 });

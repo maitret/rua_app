@@ -1,10 +1,13 @@
 document.addEventListener("backbutton", onBackKeyDown, false);
 function onBackKeyDown() {
-location = "index.html";
+//location = "index.html";
 }
 document.addEventListener("menubutton", onMenuKeyDown, false);
 function onMenuKeyDown() {
-location = "index.html";
+//location = "index.html";
+$('body').removeClass('page-sidebar-left-show');
+$('body').removeClass('page-sidebar-right-show');
+$('body').addClass('page-sidebar-left-show');
 }
 document.addEventListener("searchbutton", onSearchKeyDown, false);
 function onSearchKeyDown() {
@@ -27,6 +30,18 @@ $('#body-content-ajax').on("touchstart mouseup",function(){
 $('body').removeClass('page-sidebar-left-show');
 $('body').removeClass('page-sidebar-right-show');
 });
+
+$('.sidebar-menu a').on('click',function(){
+$('body').removeClass('page-sidebar-left-show');
+$('body').removeClass('page-sidebar-right-show');
+var title_page = $(this).attr("data-title");
+if(title_page != "" || title_page != "undefined"){
+$('.navbar-header').html('<a href="index.html" class="navbar-brand">'+title_page+'</a>');
+}
+});
+//var stateObj = { html: url };
+//history.pushState(stateObj, "", "index.html?"+url);
+//window.onpopstate = function(event) {  };
 
 var BlankonAjax = function () {
     // Setting variable
@@ -65,7 +80,7 @@ var BlankonAjax = function () {
             //filling in the default content
             //default_content = $('#body-content-ajax').html();
             //default_content = $('#body-content-ajax').load("ajax/index.html");
-            default_content = $('#body-content-ajax').html('<br><br><br><div align="center"><img src="img/favicon.png"></div><br><br><br>');
+            default_content = $('#body-content-ajax').html('<br><br><br><div align="center"><h1>Bienvenido/a</h1><br><br><br>');
         },
 
         // =========================================================================
@@ -84,16 +99,7 @@ var BlankonAjax = function () {
                     BlankonAjax.loadPage(hash);
                 }
 
-$('.sidebar-menu a').on('click',function(){
-$('body').removeClass('page-sidebar-left-show');
-var title_page = $(this).attr("data-title");
-if(title_page != "" || title_page != "undefined"){
-$('.navbar-header').html('<a href="index.html" class="navbar-brand">'+title_page+'</a>');
-}
-});
-//var stateObj = { html: url };
-//history.pushState(stateObj, "", "index.html?"+url);
-//window.onpopstate = function(event) {  };
+/**** ok ****/
 
             }
         },

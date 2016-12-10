@@ -15,6 +15,10 @@ $('body').on("touchstart mouseup",function(){
 $('body').addClass('page-sidebar-left-show');
 });
 
+$(window.document).on("swipeleft",function(){
+alert("You swiped left!");
+});
+
 //$('body').on("touchstart mousedown",function(){
 //$('body').removeClass('page-sidebar-left-show');
 //});

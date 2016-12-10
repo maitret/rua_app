@@ -4,10 +4,6 @@
     <list default="true" id="29290c35-fd1e-4742-be06-921a27804549" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/acerca.html" afterPath="$PROJECT_DIR$/ajax/acerca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/cotizaciones.html" afterPath="$PROJECT_DIR$/ajax/cotizaciones.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/mis_datos.html" afterPath="$PROJECT_DIR$/ajax/mis_datos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/orden_de_compra.html" afterPath="$PROJECT_DIR$/ajax/orden_de_compra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/solicitud_productos.html" afterPath="$PROJECT_DIR$/ajax/solicitud_productos.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="HTML_PhoneGap.iws" />
@@ -34,18 +30,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.884615">
-              <caret line="134" column="32" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="48" />
+            <state vertical-scroll-proportion="-8.076923">
+              <caret line="164" column="66" selection-start-line="164" selection-start-column="66" selection-end-line="164" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acerca.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="acerca.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.23985891">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -81,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solicitud_productos.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solicitud_productos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax/solicitud_productos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14991182">
+            <state vertical-scroll-proportion="-3.2692308">
               <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
@@ -95,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <caret line="67" column="137" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="137" />
               <folding />
             </state>
           </provider>
@@ -148,12 +144,12 @@
         <option value="$PROJECT_DIR$/js/jquery.mobile-events.min.js" />
         <option value="$PROJECT_DIR$/assets/admin/css/rua.css" />
         <option value="$PROJECT_DIR$/js/blankon.ajax.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ajax/orden_de_compra.html" />
         <option value="$PROJECT_DIR$/ajax/mis_datos.html" />
         <option value="$PROJECT_DIR$/ajax/cotizaciones.html" />
-        <option value="$PROJECT_DIR$/ajax/acerca.html" />
         <option value="$PROJECT_DIR$/ajax/solicitud_productos.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ajax/acerca.html" />
       </list>
     </option>
   </component>
@@ -511,7 +507,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481353760756</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary=":)">
+      <created>1481354402054</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1481354402054</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -675,30 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.884615">
-          <caret line="134" column="32" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajax/cotizaciones.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614">
@@ -725,8 +703,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/solicitud_productos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14991182">
+        <state vertical-scroll-proportion="-3.2692308">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="137" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.076923">
+          <caret line="164" column="66" selection-start-line="164" selection-start-column="66" selection-end-line="164" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23985891">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>

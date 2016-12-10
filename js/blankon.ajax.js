@@ -14,18 +14,18 @@ function onSearchKeyDown() {
 $(window.document).swiperight(function() {
 //console.log('right');
 $('body').removeClass('page-sidebar-left-show');
-$('body').removeClass('page-sidebar-righr-show');
+$('body').removeClass('page-sidebar-right-show');
 $('body').addClass('page-sidebar-left-show');
 }).swipeleft(function() {
 //console.log('left');
 $('body').removeClass('page-sidebar-left-show');
-$('body').removeClass('page-sidebar-righr-show');
+$('body').removeClass('page-sidebar-right-show');
 $('body').addClass('page-sidebar-right-show');
 });
 
 $('#body-content-ajax').on("touchstart mouseup",function(){
 $('body').removeClass('page-sidebar-left-show');
-$('body').removeClass('page-sidebar-righr-show');
+$('body').removeClass('page-sidebar-right-show');
 });
 
 var BlankonAjax = function () {

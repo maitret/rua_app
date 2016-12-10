@@ -11,13 +11,13 @@ function onSearchKeyDown() {
 //location = "index.html";
 }
 
-$(document).on("touchstart mouseup",function(){
+$('body').on("touchstart mouseup",function(){
 $('body').addClass('page-sidebar-left-show');
 });
 
-$(document).on("touchstart mousedown",function(){
-$('body').removeClass('page-sidebar-left-show');
-});
+//$('body').on("touchstart mousedown",function(){
+//$('body').removeClass('page-sidebar-left-show');
+//});
 
 var BlankonAjax = function () {
     // Setting variable

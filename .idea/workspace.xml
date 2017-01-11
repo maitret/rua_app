@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29290c35-fd1e-4742-be06-921a27804549" name="Default" comment=":)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1024-768.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1136-640.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1242-2208.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1280-1920.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1280-720.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1334-750.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1536-2048.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1600-960.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/1920-1280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/200-320.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/2048-1536.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/2208-1242.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/320-200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/320-480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/480-320.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/480-800.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/480-800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/640-1136.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/640-960.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/720-1280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/750-1334.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/768-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/800-480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/splashscreens/960-1600.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index - copia.html" afterPath="" />
+    <list default="true" id="29290c35-fd1e-4742-be06-921a27804549" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.def.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
     </list>
     <ignored path="HTML_PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,70 +25,7 @@
     <favorites_list name="HTML_PhoneGap" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="acerca.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.0105634">
-              <caret line="200" column="4" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blankon.ajax.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rua.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apps.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/admin/js/apps.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="570" column="29" selection-start-line="570" selection-start-column="29" selection-end-line="570" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -200,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,7 +121,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,7 +131,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Ana/PeachSound/HTML" />
     <property name="js-jscs-nodeInterpreter" value="R:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager">
@@ -518,7 +417,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481355995948</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary=":)">
+      <created>1481405111595</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1481405111595</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -535,7 +440,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -581,6 +486,74 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/admin/js/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="570" column="29" selection-start-line="570" selection-start-column="29" selection-end-line="570" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/admin/js/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="570" column="29" selection-start-line="570" selection-start-column="29" selection-end-line="570" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="30" />
           <folding />
         </state>
@@ -590,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/admin/js/apps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="16.313131">
           <caret line="570" column="29" selection-start-line="570" selection-start-column="29" selection-end-line="570" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -707,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/admin/css/rua.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.11971831">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
@@ -743,32 +714,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/blankon.ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.97306395">
           <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.0105634">
+        <state vertical-scroll-proportion="5.0194">
           <caret line="200" column="4" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/acerca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08994709">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20070423">
+          <caret line="119" column="5" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
           <folding />
         </state>
       </provider>
